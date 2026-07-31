@@ -29,9 +29,9 @@
   <tr>
     <td align="center" width="400px">
       <br />
-      <b>👤 Your Name</b>
+      <b>👤 Kunwarpreet Singh</b>
       <br />
-      🆔 Roll No: <code>102XXXXXX</code>
+      🆔 Roll No: <code>1024170439</code>
       <br />
       🎓 Computer Science & Engineering Department
       <br />
