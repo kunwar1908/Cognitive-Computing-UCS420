@@ -1,10 +1,12 @@
 <div align="center">
 
 # 🧠 UCS420: Cognitive Computing Lab
+<img width="176" height="85" alt="image" src="https://github.com/user-attachments/assets/ba73b7be-d797-48c7-a850-0dc2bd4f8249" />
 
 [![TIET](https://shields.io)](https://thapar.edu)
-[![Course](https://shields.io)](#)
-[![Field](https://shields.io)](#)
+<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/ccf73942-05a7-4330-bac5-794792f622d9" />
+
+[![Course](https://shields.io)](https://www.thapar.edu/upload/files/BECSE2026_Scheme.pdf?_ga=2.80765072.668275371.1785469505-650138455.1784786261&_gl=1*lfja4b*_gcl_au*MjA1NTkxNDY1Mi4xNzg0Nzg2MjYx*_ga*NjUwMTM4NDU1LjE3ODQ3ODYyNjE.*_ga_5K6V5S5WTM*czE3ODU0Njk1MDUkbzIkZzEkdDE3ODU0Njk1MDUkajYwJGwwJGg5NTk0Mzg4Nw..)
 
 ---
 
